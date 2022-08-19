@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# README of Kind Heart Cat Rescue
 
-You can use the [editor on GitHub](https://github.com/natbujnoch/KindHeartRescueAPI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## General Overview
+Kind Heart Cat Rescue is a cat adoption app for a fictitious cat rescue
+Kind Heart Cat Rescue is the rescue that will be demonstrated with their list of cats
+Kind Heart Cat Rescue App will display multiple rescues on map, however the adoption pages display the data of a fictional adoption company
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Required features
+App displays list of current cat adoptees and details about them  catapi
+App displays blurb about breed 
+App displays on map cat rescues in area including Kind Heart Cat Rescue
 
-### Markdown
+## Optional features
+App gets pet insurance quote
+App gets list of pet food for cat
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Enhancement Features
+App gets data for an actual adoption rescue
 
-```markdown
-Syntax highlighted code block
+## Uniqueness of App
+An animal adoption app that is connected to a map
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/natbujnoch/KindHeartRescueAPI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+App uses CAT Api and KindHeartRescueAPI
