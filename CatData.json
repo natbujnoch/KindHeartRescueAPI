@@ -6,7 +6,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/KWdLHmOqc.jpg"
     },
     {
@@ -16,7 +16,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/uvt2Psd9O.jpg"
     },
     {
@@ -26,7 +26,7 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "8 months"
     "url":"https://cdn2.thecatapi.com/images/vH0bd0YDH.jpg"
     },
     {
@@ -36,7 +36,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/xnsqonbjW.jpg"
     },
     {
@@ -46,7 +46,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/8NdgktL3E.jpg"
     },
     {
@@ -56,7 +56,7 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "8 months"
     "url":"https://cdn2.thecatapi.com/images/kxUakBB2o.jpg"
     },
     {
@@ -66,7 +66,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/cZHbIzC_l.jpg"
     },
     {
@@ -76,7 +76,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/zTiuUpmqf.jpg"
     },
     {
@@ -86,17 +86,17 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "8 months"
     "url":"https://cdn2.thecatapi.com/images/FJ89mXP4p.jpg"
     },
     {
     "id": 10,
     "breed": "bamb",
-    "name": "stinky",
+    "name": "lady",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/jUY0Dt5iB.jpg"
     },
     {
@@ -115,7 +115,7 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/9tZCXEYzy.jpg"
     },
     {
@@ -125,7 +125,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "8 months"
     "url":"https://cdn2.thecatapi.com/images/BkksyH95Z.jpg"
     },
     {
@@ -135,8 +135,8 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
-    "url":"https://cdn2.thecatapi.com/images/ZdhQh9wc9.jpg"
+    "age": "1 year"
+    "url":"https://cdn2.thecatapi.com/images/YZGOUtRQ1.jpg"
     },
     {
     "id": 15,
@@ -145,8 +145,8 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
-    "url":"https://cdn2.thecatapi.com/images/ZdhQh9wc9.jpg"
+    "age": "3 years"
+    "url":"https://cdn2.thecatapi.com/images/qXypILClv.jpg"
     },
     {
     "id": 16,
@@ -155,7 +155,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "8 months"
     "url":"https://cdn2.thecatapi.com/images/92D9NZLs0.jpg"
     },
     {
@@ -165,7 +165,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/wgoLPWPZQ.jpg"
     },
     {
@@ -175,7 +175,7 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/B1ERTmgph.jpg"
     },
     {
@@ -185,7 +185,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "8 months"
     "url":"https://cdn2.thecatapi.com/images/INXwfT_cp.jpg"
     },
     {
@@ -195,7 +195,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/Y4YIOqGKb.jpg"
     },
     {
@@ -205,7 +205,7 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/snxE5_PPX.jpg"
     },
     {
@@ -215,7 +215,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "8 months"
     "url":"https://cdn2.thecatapi.com/images/BjIppqbNI.jpg"
     },
     {
@@ -225,7 +225,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/uUGt0UBzF.jpg"
     },
     {
@@ -235,7 +235,7 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/KWVenr3Pq.jpg"
     },
     {
@@ -245,7 +245,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "8 months"
     "url":"https://cdn2.thecatapi.com/images/KrDYENsA3.jpg"
     },
     {
@@ -255,7 +255,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/uygraw0_D.jpg"
     },
     {
@@ -265,7 +265,7 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/oLtx9gsxx.jpg"
     },
     {
@@ -275,7 +275,7 @@
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/ixXGyLmIW.jpg"
     },
     {
@@ -285,7 +285,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "1 year"
     "url":"https://cdn2.thecatapi.com/images/gLfmOKHCA.jpg"
     },
     {
@@ -295,7 +295,7 @@
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
-    "isFavorite": false,
+    "age": "3 years"
     "url":"https://cdn2.thecatapi.com/images/hYG6uIRWL.jpg"
     }
 ]
