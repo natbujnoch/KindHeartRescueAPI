@@ -1,4 +1,4 @@
-# README of Kind Heart Cat Rescue
+## README of Kind Heart Cat Rescue
 
 ## General Overview
 Kind Heart Cat Rescue is a cat adoption app for a fictitious cat rescue
