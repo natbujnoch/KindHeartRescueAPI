@@ -106,6 +106,7 @@
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
+    "age": "1 year",
     "url":"https://cdn2.thecatapi.com/images/4-5SzDNIL.jpg"
     },
     {
