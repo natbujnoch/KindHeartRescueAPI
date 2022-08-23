@@ -7,6 +7,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/KWdLHmOqc.jpg"
     },
     {
@@ -17,6 +18,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/uvt2Psd9O.jpg"
     },
     {
@@ -27,6 +29,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "8 months",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/vH0bd0YDH.jpg"
     },
     {
@@ -37,6 +40,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/xnsqonbjW.jpg"
     },
     {
@@ -47,6 +51,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/8NdgktL3E.jpg"
     },
     {
@@ -57,6 +62,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "8 months",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/kxUakBB2o.jpg"
     },
     {
@@ -67,6 +73,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/cZHbIzC_l.jpg"
     },
     {
@@ -77,6 +84,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/zTiuUpmqf.jpg"
     },
     {
@@ -87,6 +95,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "8 months",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/FJ89mXP4p.jpg"
     },
     {
@@ -97,6 +106,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/jUY0Dt5iB.jpg"
     },
     {
@@ -107,6 +117,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/4-5SzDNIL.jpg"
     },
     {
@@ -117,6 +128,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/9tZCXEYzy.jpg"
     },
     {
@@ -127,6 +139,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "8 months",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/BkksyH95Z.jpg"
     },
     {
@@ -137,6 +150,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/YZGOUtRQ1.jpg"
     },
     {
@@ -147,6 +161,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/qXypILClv.jpg"
     },
     {
@@ -157,6 +172,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "8 months",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/92D9NZLs0.jpg"
     },
     {
@@ -167,6 +183,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/wgoLPWPZQ.jpg"
     },
     {
@@ -177,6 +194,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/B1ERTmgph.jpg"
     },
     {
@@ -187,6 +205,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "8 months",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/INXwfT_cp.jpg"
     },
     {
@@ -197,6 +216,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/Y4YIOqGKb.jpg"
     },
     {
@@ -207,6 +227,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/snxE5_PPX.jpg"
     },
     {
@@ -217,6 +238,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "8 months",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/BjIppqbNI.jpg"
     },
     {
@@ -227,6 +249,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/uUGt0UBzF.jpg"
     },
     {
@@ -237,6 +260,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/KWVenr3Pq.jpg"
     },
     {
@@ -247,6 +271,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "8 months",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/KrDYENsA3.jpg"
     },
     {
@@ -257,6 +282,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/uygraw0_D.jpg"
     },
     {
@@ -267,6 +293,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/oLtx9gsxx.jpg"
     },
     {
@@ -277,6 +304,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/ixXGyLmIW.jpg"
     },
     {
@@ -287,6 +315,7 @@
     "gender": "male",
     "spayedOrNeutered": "yes",
     "age": "1 year",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/gLfmOKHCA.jpg"
     },
     {
@@ -297,6 +326,7 @@
     "gender": "female",
     "spayedOrNeutered": "yes",
     "age": "3 years",
+    "isFavorite": false,
     "url":"https://cdn2.thecatapi.com/images/hYG6uIRWL.jpg"
     }
 ]
