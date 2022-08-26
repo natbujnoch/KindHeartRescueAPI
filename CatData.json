@@ -2,7 +2,7 @@
     {
     "id": 1,
     "breed": "abys",
-    "name": "doll",
+    "name": "Doll",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -13,7 +13,7 @@
     {
     "id": 2,
     "breed": "aege",
-    "name": "fred",
+    "name": "Fred",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -24,7 +24,7 @@
     {
     "id": 3,
     "breed": "abob",
-    "name": "theo",
+    "name": "Theo",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -35,7 +35,7 @@
     {
     "id": 4,
     "breed": "acur",
-    "name": "loopy",
+    "name": "Loopy",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -46,7 +46,7 @@
     {
     "id": 5,
     "breed": "asho",
-    "name": "jenkins",
+    "name": "Jenkins",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -57,7 +57,7 @@
     {
     "id": 6,
     "breed": "awir",
-    "name": "toast",
+    "name": "Toast",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -68,7 +68,7 @@
     {
     "id": 7,
     "breed": "amau",
-    "name": "jenny",
+    "name": "Jenny",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -79,7 +79,7 @@
     {
     "id": 8,
     "breed": "amis",
-    "name": "bronx",
+    "name": "Bronx",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -90,7 +90,7 @@
     {
     "id": 9,
     "breed": "bali",
-    "name": "tiger",
+    "name": "Tiger",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -101,7 +101,7 @@
     {
     "id": 10,
     "breed": "bamb",
-    "name": "lady",
+    "name": "Lady",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -112,7 +112,7 @@
     {
     "id": 11,
     "breed": "beng",
-    "name": "mark",
+    "name": "Mark",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -123,7 +123,7 @@
     {
     "id": 12,
     "breed": "birm",
-    "name": "sophie",
+    "name": "Sophie",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -134,7 +134,7 @@
     {
     "id": 13,
     "breed": "bomb",
-    "name": "cherry",
+    "name": "Cherry",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -145,7 +145,7 @@
     {
     "id": 14,
     "breed": "blso",
-    "name": "patrick",
+    "name": "Patrick",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -156,7 +156,7 @@
     {
     "id": 15,
     "breed": "bsho",
-    "name": "poptart",
+    "name": "Poptart",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -167,7 +167,7 @@
     {
     "id": 16,
     "breed": "bure",
-    "name": "bell",
+    "name": "Bell",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -178,7 +178,7 @@
     {
     "id": 17,
     "breed": "buri",
-    "name": "carson",
+    "name": "Carson",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -189,7 +189,7 @@
     {
     "id": 18,
     "breed": "cspa",
-    "name": "wendy",
+    "name": "Wendy",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -200,7 +200,7 @@
     {
     "id": 19,
     "breed": "ctif",
-    "name": "emily",
+    "name": "Emily",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -211,7 +211,7 @@
     {
     "id": 20,
     "breed": "char",
-    "name": "casper",
+    "name": "Casper",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -222,7 +222,7 @@
     {
     "id": 21,
     "breed": "chau",
-    "name": "lucy",
+    "name": "Lucy",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -233,7 +233,7 @@
     {
     "id": 22,
     "breed": "chee",
-    "name": "dash",
+    "name": "Dash",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -244,7 +244,7 @@
     {
     "id": 23,
     "breed": "drex",
-    "name": "henry",
+    "name": "Henry",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -255,7 +255,7 @@
     {
     "id": 24,
     "breed": "dons",
-    "name": "natasha",
+    "name": "Natasha",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -266,7 +266,7 @@
     {
     "id": 25,
     "breed": "lihu",
-    "name": "michelle",
+    "name": "Michelle",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -277,7 +277,7 @@
     {
     "id": 26,
     "breed": "emau",
-    "name": "matthew",
+    "name": "Matthew",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -288,7 +288,7 @@
     {
     "id": 27,
     "breed": "ebur",
-    "name": "sandy",
+    "name": "Sandy",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -299,7 +299,7 @@
     {
     "id": 28,
     "breed": "esho",
-    "name": "princess",
+    "name": "Princess",
     "description": "I am a sweet and very shy cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
@@ -310,7 +310,7 @@
     {
     "id": 29,
     "breed": "hbro",
-    "name": "edward",
+    "name": "Edward",
     "description": "I am a noisy cat",
     "gender": "male",
     "spayedOrNeutered": "yes",
@@ -321,7 +321,7 @@
     {
     "id": 30,
     "breed": "hima",
-    "name": "sally",
+    "name": "Sally",
     "description": "I am a friendly cat",
     "gender": "female",
     "spayedOrNeutered": "yes",
